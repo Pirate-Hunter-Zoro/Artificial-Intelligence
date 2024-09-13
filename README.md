@@ -19,10 +19,12 @@ This will create a folder called "Artificial-Intelligence" in your current folde
    ```source ai_env\bin\activate```
 4. Install the necessary Python libraries:<br>
    ```pip install -r requirements.txt```
-5. You should be able to open any notebook and navigate your mouse near the top right to click on the "Select Kernel" box, choose "Python Environments", and select the virtual environment you just created as a kernel:
+5. At this point feel free to open the repository in VSCode:<br>
+   ```code .```
+6. You should be able to open any notebook and navigate your mouse near the top right to click on the "Select Kernel" box, choose "Python Environments", and select the virtual environment you just created as a kernel:
 ![](images/Kernel_Select_1.png)
 ![](images/Kernel_Select_2.png)
-6. Now have fun running the cells!
+7. Now have fun running the cells!
 
 ## Useful Note
 To write all of the requirements in the Python virtual library into "requirements.txt", run the following command:<br>
