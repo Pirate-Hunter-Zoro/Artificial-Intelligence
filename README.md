@@ -1,5 +1,5 @@
 # About
-This is a repository of 
+This is a repository of various artificial intelligence algorithm implementations. To see them in action, you'll want to run each '.ipynb' notebook and observe the output.
 
 ## Instructions
 I would highly recommend using VSCode to experiment with these notebooks should one choose to do so. Download here: https://code.visualstudio.com/download<br>
