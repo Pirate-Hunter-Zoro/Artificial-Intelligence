@@ -18,7 +18,7 @@ This will create a folder called "Artificial-Intelligence" in your current folde
 3. Create a python virtual environment named "ai_env" (or whatever you want to call it) via the following command:<br>
    ```python -m venv ai_env```
 4. Activate the virtual environment:<br>
-   ```source ai_env\bin\activate```
+   ```source ai_env/bin/activate```
 5. Install the necessary Python libraries:<br>
    ```pip install -r requirements.txt```
 6. At this point feel free to open the repository in VSCode:<br>
